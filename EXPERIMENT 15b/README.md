@@ -3,7 +3,7 @@
 ![program file](SEONDLEVELDIRECTORY_563.py)
 
 # program code 
-![program code](SEONDLEVELDIRECTORY__IO_563.png)
+![program code](SEONDLEVELDIRECTORY__CODE_563.png)
 
 # sample output
 ![sample output](SEONDLEVELDIRECTORY__IO_563.png)
