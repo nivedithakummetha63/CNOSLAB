@@ -19,7 +19,7 @@
 ![program code](MFT_CODE_563.png)
 
 # sample output2
-![sample output](wMFT_IO_563.png)
+![sample output](MFT_IO_563.png)
 
 # executed output2
 ![executed output](MFT_EO_563.png)
