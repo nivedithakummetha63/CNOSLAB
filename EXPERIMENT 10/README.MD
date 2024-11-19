@@ -3,7 +3,7 @@
 ![program file](producer-consumer_563.py)
 
 # program code 
-![program code](producer-consumer_CODE_563.png)
+![program code](producer-consumer_code_563.png)
 
 # sample output
 ![sample output](producer-consumer_IO_563.png)
