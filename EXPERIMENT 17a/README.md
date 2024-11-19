@@ -9,5 +9,5 @@
 ![sample output](DEADLOCK_AVOIDANCE_IO_563.png)
 
 # executed output
-![executed output](DEADLOCK_AVOIDANCE_EO_563.png)
+![executed output](DEADLOCK_AVOIDANCEEO_563.png)
 
