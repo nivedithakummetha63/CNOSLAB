@@ -3,7 +3,7 @@
 ![program file](dinning-philosopher_563.py)
 
 # program code 
-![program code](dinning-philosopher_code_563.png)
+![program code](dinning-philosopher_CODE_563.png)
 
 # sample output
 ![sample output](dinning-philosopher_i0_563.png)
